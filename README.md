@@ -29,7 +29,7 @@ git restore --staged /src/index.jsx
 Если с текущей ветки ранее был открыт pull request, то исправления нужно выгрузить с флагом `-ff`, например: 
 
 ```
-git push origin my-branch -ff
+git push origin my-branch -f
 ```
 
 ### Как я могу посмотреть весь список своих коммитов?
